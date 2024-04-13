@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "DSCV"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/DSCV_ICON.jpg"
   bio              : "I am an **amazing** person."
   location         : "Suwon City"
   email            :
