@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "neon" # "default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "ko"
-title                    : "축구를 좋아하는 데이터 사이언티스트"
-title_separator          : "이거 위치 어디냐"
-subtitle                 : 'skir' # site tagline that appears below site title in masthead
+title                    : "Jelly_Hub"
+# title_separator          : "이거 위치 어디냐"
+subtitle                 : '축구를 좋아하는 데이터 사이언티스트' # site tagline that appears below site title in masthead
 name                     : "Hop_Lee"
 description              : "Soccer & Data Scientist"
 url                      : "https://jellybee02.github.io"
