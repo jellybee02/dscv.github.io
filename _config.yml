@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "neon" # "default" # "air", "aqua", "contrast", "dark
 locale                   : "ko"
 title                    : "축구를 좋아하는 데이터 사이언티스트"
 title_separator          : "이거 위치 어디냐"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : 'skir' # site tagline that appears below site title in masthead
 name                     : "Hop_Lee"
-description              : "이거 위치 어디냐 2"
+description              : "Soccer & Data Scientist"
 url                      : "https://jellybee02.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 'jellybee02/jellybee02.github.io' # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,12 +107,12 @@ author:
   name             : "Jellybee"
   avatar           : "/assets/images/frenkie.png"
   bio              : "Data Scientist & Soccer Analyst"
-  location         : "Suwon City"
+  location         : "South Korea"
   email            :
   links:
-    # - label: "Email"
-      # icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:wogus4039@gmail.com"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,29 +127,17 @@ author:
       url: "https://github.com/jellybee02.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/dscv_asap?igsh=dTc3a2x2OG5waDBo&utm_source=qr"
+      url: "https://www.instagram.com/jellybee_2?igsh=MTlhNWE5M3A2YTFxaQ%3D%3D&utm_source=qr"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://github.com/jellybee02.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/jellybee_2?igsh=MTlhNWE5M3A2YTFxaQ%3D%3D&utm_source=qr"
 
 
 # Reading Files
