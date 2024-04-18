@@ -12,9 +12,9 @@ docs:
   - title: "Main Index"
     children:
     - title: "Soccer"
-      url: /categories/Soccer/
+      url: 'https://jellybee02.github.io/categories/#soccer'
     - title: "Data Scientist"
-      url: /categories/DataScience/
+      url: 'https://jellybee02.github.io/categories/#datascience'
     - title: "Daily"
       url: 'https://jellybee02.github.io/categories/#daily'
     # - title: "Category"
