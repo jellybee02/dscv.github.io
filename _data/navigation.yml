@@ -8,16 +8,22 @@ main:
     url: /search/
 
 docs:
-  - title: "Data Scientist"
-    url: /Categories/
+  - title: "Category"
+    url: /categories/
+  - title: "Tag"
+    url: /tags/
+
+
+#   - title: "Data Scientist"
+#     url: /Categories/
     # children:
     #   - title: "Function"
     #     url: /function/
       # - title: "Code"
       #   url: /code/
 
-  - title: "Data Scientist"
-    url: /function/
+  # - title: "Data Scientist"
+  #   url: /function/
     # children:
       # - title: "Function"
         # url: /function/
