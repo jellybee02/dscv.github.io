@@ -7,15 +7,16 @@ main:
   - title: "Search"
     url: /search/
 
+
 docs:
   - title: "Main Index"
     children:
     - title: "Soccer"
-      url: /docs/categories/Soccer/
+      url: /categories/Soccer/
     - title: "Data Scientist"
-      url: /docs/categories/DataScience/
+      url: /categories/DataScience/
     - title: "Daily"
-      url: /docs/categories/Daily/
+      url: /categories/Daily/
     # - title: "Category"
     #   url: /categories/
     
