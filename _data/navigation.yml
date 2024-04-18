@@ -10,10 +10,10 @@ main:
 docs:
   - title: "Main Index"
     children:
-    - title: "Category"
-      url: /categories/
-    - title: "Tag"
-      url: /tags/
+    - title: "Soccer"
+      url: /categories/Soccer/
+    - title: "Data Scientist"
+      url: /categories/DataScience/
     # - title: "Category"
     #   url: /categories/
     
