@@ -16,7 +16,7 @@ docs:
     - title: "Data Scientist"
       url: /categories/DataScience/
     - title: "Daily"
-      url: /categories/Daily/
+      url: 'https://jellybee02.github.io/categories/#daily'
     # - title: "Category"
     #   url: /categories/
     
