@@ -11,9 +11,11 @@ docs:
   - title: "Main Index"
     children:
     - title: "Soccer"
-      url: /categories/Soccer/
+      url: /docs/categories/Soccer/
     - title: "Data Scientist"
-      url: /categories/DataScience/
+      url: /docs/categories/DataScience/
+    - title: "Daily"
+      url: /docs/categories/Daily/
     # - title: "Category"
     #   url: /categories/
     
